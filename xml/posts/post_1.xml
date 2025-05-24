@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post id="1" status="published">
+  <title>test</title>
+  <author>admin</author>
+  <category>General</category>
+  <created_at>2025-05-24 19:09:33</created_at>
+  <updated_at>2025-05-24 19:09:33</updated_at>
+  <content><![CDATA[test]]></content>
+  <excerpt>test</excerpt>
+</post>
